@@ -4,7 +4,7 @@
 
 ## 1. Definitions
 
-##### 1.1 Numerical Analysis: It is the branch of mathematics that deals with the tools and methods to solve mathematical problems in numerical form.
+##### 1.1 [Numerical Analysis](https://en.wikipedia.org/wiki/Numerical_analysis): It is the branch of mathematics that deals with the tools and methods to solve mathematical problems in numerical form.
 
 ##### 1.2 Numerical Algorithm: It is a set of procedures that gives an approximate solution to a mathematical problem.
 
